@@ -1,0 +1,14 @@
+{
+    "name": "monya/composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "MonyaMya",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "Wcs"}
+    }
+}
