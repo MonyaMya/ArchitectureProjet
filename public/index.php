@@ -1,7 +1,10 @@
 <?php
 
-require_once "../src/Wcs/Hello.php";
 
-$hello = new \App\Wcs\Hello();
-echo $hello->talk();
-var_dump($hello);
+
+
+use App\Wcs\Hello;
+
+require '../vendor/autoload.php';
+$talk = new Hello();
+echo $talk->talk()
