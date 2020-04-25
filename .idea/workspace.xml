@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LEARN" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +61,7 @@
       <workItem from="1586325971110" duration="2080000" />
       <workItem from="1586503966984" duration="33000" />
       <workItem from="1586697196303" duration="4089000" />
+      <workItem from="1586758992502" duration="93000" />
     </task>
     <servers />
   </component>
@@ -68,10 +69,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1171" y="348" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586503984825">
+    <state x="1171" y="348" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586759082621">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1171" y="348" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586503984825" />
+    <state x="1171" y="348" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586759082621" />
     <state x="1169" y="367" width="545" height="373" key="NewPhpClassDialog" timestamp="1586262810436">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -80,9 +81,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1169" y="479" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586262730491" />
-    <state x="1111" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586503971659">
+    <state x="1111" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586758994829">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1111" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586503971659" />
+    <state x="1111" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586758994829" />
   </component>
 </project>
